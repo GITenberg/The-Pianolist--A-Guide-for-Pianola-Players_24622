@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7832
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24622#The-Pianolist--A-Guide-for-Pianola-Players
 gutenberg_bookshelf: Music
 gutenberg_issued: '2008-02-16'
 gutenberg_type: Text
